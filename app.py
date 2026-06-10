@@ -1,2 +1,2 @@
 print("Hello World din VS Code si GitHub!")
-print("Commit and push")
+print("Commit changes din GitHub")
